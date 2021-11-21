@@ -1,5 +1,5 @@
 <div>
-~~~javascript
+```
   {
     Saudação: 'Olá',
     Nome: 'Letícia Castro',
@@ -17,7 +17,7 @@
       Comidas: 'Chocolate',
     ],
   }
-~~~
+```
 </div>
 
 <div>
