@@ -1,4 +1,4 @@
-```
+```js
   {
     Saudação: 'Olá',
     Nome: 'Letícia Castro',
@@ -20,11 +20,11 @@
 
 <div>
   <img
-    height="130em"
+    height="150em"
     src="https://github-readme-stats.vercel.app/api?username=aicitelks&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"
   />
   <img
-    height="130em"
+    height="150em"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=aicitelks&layout=compact&langs_count=10&theme=midnight-purple"
   />
 </div>
