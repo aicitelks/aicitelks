@@ -1,3 +1,10 @@
+<div align="center">
+<img
+  src="images/wonder_woman.png"
+  height="150"
+>
+</div>
+
 ```js
   {
     Saudação: 'Olá',
