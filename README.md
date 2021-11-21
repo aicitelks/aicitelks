@@ -1,5 +1,4 @@
-<div>
-```
+```js
   {
     Saudação: 'Olá',
     Nome: 'Letícia Castro',
@@ -14,19 +13,18 @@
         Estudar: 'Lo-Fi Girl',
         Trabalhar: 'Inspiradoras',
       },
-      Comidas: 'Chocolate',
+      Comidas: { 'Chocolate' },
     ],
   }
 ```
-</div>
 
 <div>
   <img
-    height="100em"
+    height="130em"
     src="https://github-readme-stats.vercel.app/api?username=aicitelks&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"
   />
   <img
-    height="100em"
+    height="130em"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=aicitelks&layout=compact&langs_count=10&theme=midnight-purple"
   />
 </div>
