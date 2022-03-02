@@ -7,7 +7,7 @@
 
 ```js
   {
-    Saudação: 'Olá. Boas Vindas ao meu perfil! :rocket:',
+    Saudação: 'Olá. Boas Vindas ao meu perfil!,
     Nome: 'Letícia Castro',
     Status: 'Estudande de Desenvolvimento Web na Trybe',
     Stacks: [
