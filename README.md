@@ -7,7 +7,7 @@
 
 ```js
   {
-    Saudação: 'Olá',
+    Saudação: 'Olá. Boas Vindas ao meu perfil! :rocket:',
     Nome: 'Letícia Castro',
     Status: 'Estudande de Desenvolvimento Web na Trybe',
     Stacks: [
@@ -17,7 +17,7 @@
         HTML,
         CSS
       },
-      Back-End: {
+      BackEnd: {
         MongoDB,
         MySQL,
         Node,
