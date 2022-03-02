@@ -10,18 +10,20 @@
     Saudação: 'Olá',
     Nome: 'Letícia Castro',
     Status: 'Estudande de Desenvolvimento Web na Trybe',
-    Hobbies: [ 'Gamer', 'Colecionar', 'Ler', 'Ouvir Música'],
-    Favoritos: [
-      Super-Heróis: {
-        Heroína: 'Mulher Maravilha',
-        Herói: 'Homem de Ferro',
+    Stacks: [
+      FrontEnd: {
+        React,
+        Redux,
+        HTML,
+        CSS
       },
-      Músicas: {
-        Estudar: 'Lo-Fi Girl',
-        Trabalhar: 'Inspiradoras',
+      Back-End: {
+        MongoDB,
+        MySQL,
+        Node,
       },
-      Comidas: { 'Chocolate' },
     ],
+    Hobbies: [ 'Games', 'Colecionar', 'Ler', 'Ouvir Música'],
   }
 ```
 
