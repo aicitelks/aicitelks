@@ -7,23 +7,18 @@
 
 ```js
   {
-    Saudação: 'Olá. Boas Vindas ao meu perfil!,
-    Nome: 'Letícia Castro',
-    Status: 'Estudande de Desenvolvimento Web na Trybe',
-    Stacks: [
-      FrontEnd: {
-        React,
-        Redux,
-        HTML,
-        CSS
-      },
-      BackEnd: {
-        MongoDB,
-        MySQL,
-        Node,
-      },
-    ],
-    Hobbies: [ 'Games', 'Colecionar', 'Ler', 'Ouvir Música'],
+    mySalutation: 'Boas Vindas ao meu perfil e Obrigada pela gentileza da sua visita!',
+    myName: 'Sou a Letícia Castro',
+    myStatus: 'Desenvolvedora Web Jr',
+    myStacks: {
+        FrontEnd: ['React', 'Redux', 'HTML', 'CSS'],
+        BackEnd: ['MongoDB', 'MySQL', 'Node.js', 'Express', 'ORM com Sequelize']
+    },
+    myLanguages: {
+        programmingLanguages: ['JavaScript', 'Python'],
+        Languages: ['Português', 'Espanhol']
+    },
+    myHobbies: [ 'Games', 'Colecionar', 'Ler', 'Ouvir Música']
   }
 ```
 
