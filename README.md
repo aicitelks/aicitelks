@@ -18,7 +18,9 @@
         programmingLanguages: ['JavaScript', 'Python'],
         languages: ['Português', 'Espanhol']
     },
-    myHobbies: [ 'Games', 'Colecionar', 'Ler', 'Ouvir Música']
+    myHobbies: [ 'Games', 'Colecionar', 'Ler', 'Ouvir Música'],
+    myEmail: 'aicitelks@gmail.com',
+    myLinkedIn: 'https://www.linkedin.com/in/leticiacastro87/'
   }
 ```
 
