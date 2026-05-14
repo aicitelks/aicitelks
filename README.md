@@ -10,10 +10,9 @@ _Atuei no **Mercado Livre** como QA com foco em automação de testes, garantind
 ---
 
 ### 🚀 Sobre mim
-- 🛠️ **Expertise Técnica:** Especialista em automação de testes com **JavaScript, Cucumber, Postman e Newman**.
-- 📈 **Escalabilidade:** Experiência com sistemas que processam milhares de pacotes diariamente.
-- 🤖 **IA & Produtividade:** Utilizo ferramentas como **GitHub Copilot e Cursor** para otimizar scripts e acelerar entregas.
-- 🏆 **Reconhecimentos:** Premiada como **"Demoledora de Bugs"** e reconhecida como **"A Estrela do Confluence"** pela excelência em documentação técnica.
+- 🛠️ **Expertise Técnica:** Com experiência em automação de testes com **JavaScript, Cucumber, Postman e Newman**.
+- 🤖 **IA & Produtividade:** Experiencia em ferramentas como **GitHub Copilot e Cursor** para otimizar scripts e acelerar entregas.
+- 🏆 **Reconhecimentos:** Premiada como **"Demoledora de Bugs"** pelo alto desempenho na detecção de bugs e reconhecida como **"A Estrela do Confluence"** pela excelência em documentação técnica.
 
 ### 🛠️ Tecnologias e Ferramentas
 - **Linguagens & Frameworks:** JavaScript, Node.js, HTML, CSS.
@@ -21,9 +20,10 @@ _Atuei no **Mercado Livre** como QA com foco em automação de testes, garantind
 - **Documentação & Metodologias:** Confluence, Agile/Scrum, Clean Code.
 
 ### 🌟 Diferenciais Profissionais
+- Fluência no **Espanhol**
 - Atuei como **Buddy** no onboarding técnico de novos membros do time.
 - Coordenei alinhamentos técnicos entre squads como **Owner** de tarefas ponta a ponta.
-- Desenvolvi scripts padronizados para o **Postman Visualizer**, otimizando o reporte de resultados.
+- Desenvolvi scripts padronizados para o **Postman Visualizer** e templates de relatórios no Gmail, otimizando o reporte de resultados.
 
 ---
 
