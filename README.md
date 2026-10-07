@@ -3,9 +3,8 @@
  <img src="images/wonder_woman.png" height="40" align="left"> <h1> Prazer, Letícia Castro</h1>
 </div>
 
-**QA Software Engineer**
-
-_QA Engineer com 4 anos de experiência em testes funcionais e não funcionais, manuais e automatizados, em 
+**Software Engineer • QA Automation**
+_com 4 anos de experiência em testes funcionais e não funcionais, manuais e automatizados, em 
 sistemas críticos de logística de alta escala no **Mercado Livre**, atuando no core de cálculo de tarifas e prazos de envio para 
 toda a América Latina — uma arquitetura distribuída baseada em APIs e microsserviços. Experiência sólida em testes de API e 
 backend com JavaScript, Node.js, Gherkin (BDD), Cucumber, Postman e Newman, com conhecimento básico de SQL 
